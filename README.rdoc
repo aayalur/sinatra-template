@@ -30,4 +30,4 @@ This project includes contributions from the following developers:
   * bryanwoods
   * flexd
   * mcollina
-  * nickplante
+  * zapnap (Nick Plante)
